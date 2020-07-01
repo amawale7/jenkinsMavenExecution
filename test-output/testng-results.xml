@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46391" started-at="2020-07-01T18:01:05Z" finished-at="2020-07-01T18:01:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46391" started-at="2020-07-01T18:01:05Z" finished-at="2020-07-01T18:01:52Z">
+      <class name="project.Demo">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:project.Demo@780cb77]" name="SetUp" is-config="true" duration-ms="16338" started-at="2020-07-01T18:00:49Z" finished-at="2020-07-01T18:01:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="enterUrl()[pri:0, instance:project.Demo@780cb77]" name="enterUrl" is-config="true" duration-ms="5475" started-at="2020-07-01T18:01:05Z" finished-at="2020-07-01T18:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUrl -->
+        <test-method status="PASS" signature="managePage()[pri:0, instance:project.Demo@780cb77]" name="managePage" is-config="true" duration-ms="2396" started-at="2020-07-01T18:01:11Z" finished-at="2020-07-01T18:01:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- managePage -->
+        <test-method status="PASS" signature="test()[pri:0, instance:project.Demo@780cb77]" name="test" duration-ms="38142" started-at="2020-07-01T18:01:13Z" finished-at="2020-07-01T18:01:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:project.Demo@780cb77]" name="closeBrowser" is-config="true" duration-ms="10577" started-at="2020-07-01T18:01:54Z" finished-at="2020-07-01T18:02:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- project.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
